@@ -1,0 +1,12 @@
+.about_page{
+    display: block;
+    margin-left:80px;
+    margin-right: 80px;
+    background-color:#607d8b;
+    height:300px;
+    margin-top:10px;
+}
+.describe{
+    font-family: 'yusei Magic', 'sans-serif';
+    text-align: center;
+}

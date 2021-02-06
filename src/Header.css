@@ -1,0 +1,18 @@
+.header{
+    background-color:black;
+}
+
+.header_option{
+    justify-content:flex-end;
+    display: flex;
+    position:relative;
+}
+
+.header_about{
+    color: white;
+    margin: 10px;
+}
+
+.header_about:hover{
+    cursor:pointer;
+}
