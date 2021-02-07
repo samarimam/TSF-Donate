@@ -1,12 +1,13 @@
 .header{
-    background-color:black;
-    margin-bottom: 2px;
+    background-color:rgb(19, 155, 165);
+    /* margin-bottom: 2px; */
+    /* position:fixed; */
+    
 }
 
 .header_option{
     justify-content:flex-end;
     display: flex;
-    position:relative;
 }
 
 .header_about{

@@ -19,8 +19,6 @@ function App() {
              <Donate />
              <Contact />
            </Route>
-           <Route path="/samar">
-           </Route>
          </Switch>
       </div>
     </Router>

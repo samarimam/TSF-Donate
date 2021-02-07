@@ -1,12 +1,31 @@
 .Donate{
-    display: block;
-    margin-left:80px;
-    margin-right: 80px;
     background-color:#607d8b;
-    height:300px;
-    margin-top:10px;
+    height:500px;
+    /* text-align: center; */
 }
-.texts{
-    font-family: 'yusei Magic', 'sans-serif';
-    text-align: center;
+
+.donation{
+    width:30%;
+    background-color:white;
+    background-size: 200px;
+    margin:60px;
+    position: absolute;
+    margin-left: 450px;
+    margin-top:100px;
+}
+
+.insert{
+    margin:10px;
+}
+
+div> form>button{
+    margin:10px;
+    margin-left: 150px;
+}
+
+.donateh1{
+    color: white;
+    margin-left: 575px;
+    margin-top: 20px;
+    position: absolute;
 }
