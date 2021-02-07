@@ -1,5 +1,6 @@
 .header{
     background-color:black;
+    margin-bottom: 2px;
 }
 
 .header_option{
@@ -10,7 +11,8 @@
 
 .header_about{
     color: white;
-    margin: 10px;
+    margin: 20px;
+    margin-right: 25px;
 }
 
 .header_about:hover{

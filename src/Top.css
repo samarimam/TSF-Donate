@@ -1,11 +1,14 @@
 .top{
-    width: 580%;
-    height: 500px;
+    width: 90%;
+    height: 400px;
     margin-left:50px;
     margin-right: 50px;
+    object-fit: cover;
 }
 
-.top{
-    display:flex;
-
+.top_image{
+    position: absolute;
+    object-fit: cover;
+    height: 400px;
+    
 }

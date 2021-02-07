@@ -10,7 +10,7 @@ function Header() {
                 </div>
 
                 <div className="header_about">
-                   link Contact us
+                   Contact us
                 </div>
                 <div className="header_about">
                     Donate
