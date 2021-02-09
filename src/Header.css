@@ -1,21 +1,23 @@
 .header{
     background-color:rgb(19, 155, 165);
-    /* margin-bottom: 2px; */
-    /* position:fixed; */
-    
-}
-
-.header_option{
-    justify-content:flex-end;
     display: flex;
+    width:100%;
+    z-index: 1;
+    justify-content:center;
+    right: 0;
+    position: fixed;
+
 }
 
 .header_about{
     color: white;
-    margin: 20px;
-    margin-right: 25px;
+    padding: 10px 1rem;
+    display:inline;
+    overflow:hidden;
+    flex-wrap:nowrap;
 }
 
 .header_about:hover{
     cursor:pointer;
+    background-color: rgb(red, #2b7965, rgb(14, 14, 158));
 }

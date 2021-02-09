@@ -4,19 +4,16 @@ import "./Header.css";
 function Header() {
     return (
         <div className="header">
-            <div className="header_option">
                 <div className="header_about">
-                    About us
+                    <span>About-us</span>
                 </div>
 
                 <div className="header_about">
-                   Contact us
+                   <span>Contact</span>
                 </div>
                 <div className="header_about">
-                    Donate
+                    <span>Donate</span>
                 </div>
-
-            </div>
         </div>
     )
 }
