@@ -7,10 +7,8 @@
     
 }
 
-.donation{
-   background-color: #fff;
-   min-width:20rem;
-   max-width:30rem;
-   margin:2.5rem auto;
-   padding: 1rem auto;
+.donation> h1 {
+    text-align: center;
+    /* text-transform: uppercase; */
+    font-family: 'Yusei Magic', sans-serif;
 }

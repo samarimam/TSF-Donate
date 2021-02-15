@@ -1,23 +1,39 @@
 .header{
-    background-color:rgb(19, 155, 165);
+    background-color: #379683;
     display: flex;
     width:100%;
     z-index: 1;
     justify-content:center;
     right: 0;
-    position: fixed;
 
 }
 
 .header_about{
     color: white;
-    padding: 10px 1rem;
+    padding: 10px 3rem;
     display:inline;
     overflow:hidden;
     flex-wrap:nowrap;
 }
 
+a{
+    text-decoration: none;
+}
 .header_about:hover{
-    cursor:pointer;
-    background-color: rgb(red, #2b7965, rgb(14, 14, 158));
+    background-color: cornflowerblue;
+
+}
+.header_about>a:hover{
+    /* cursor:pointer; */
+    color:coral;
+}
+
+@media (max-width: 600px) {
+    .header_about {
+        padding : 10px 1rem;
+    }
+}
+
+.header_about> a {
+    color:white;
 }

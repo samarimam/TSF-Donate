@@ -2,3 +2,19 @@
     display: flex;
     margin: 5%;
 }
+
+h1, h6 {
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+.describe{
+    text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+}
+
+.describe> h1 {
+    text-align: center;
+  text-transform: uppercase;
+  color: #4CAF50;
+}
