@@ -26,3 +26,9 @@
     border-width:0 0 1px;
     /* border-bottom: rgb(0, 13, 128); */
 }
+
+@media (max-width: 600px) {
+    .join> form{
+        margin:0 15% 0 15%;
+    }
+}
