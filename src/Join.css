@@ -1,0 +1,28 @@
+.join{
+    background-color: #001f3f;
+    padding-top: 2%;
+    padding-bottom: 5%;
+    font-family: 'Yusei Magic', sans-serif;
+    /* display: inline-block; */
+}
+
+.join> form{
+    margin:0 25% 0 25%;
+    justify-content:center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: white;
+    margin-top: 3%;
+    padding: 2%;
+    /* margin-bottom: 3%; */
+}
+
+.join> h2{
+    text-align: center;
+    color:white;
+}
+
+.form-control{
+    border-width:0 0 1px;
+    /* border-bottom: rgb(0, 13, 128); */
+}

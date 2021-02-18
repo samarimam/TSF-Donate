@@ -1,14 +1,16 @@
 .Donate{
-    background-color:#607d8b;
+    background-color:#37968B;
     /* height:500px; */
     text-align: center;
     padding:2.5rem;
     color:#fff;
-    
+    padding: 5% 0;
+    width: 100;
 }
 
 .donation> h1 {
     text-align: center;
     /* text-transform: uppercase; */
     font-family: 'Yusei Magic', sans-serif;
+    margin-bottom: 20px;
 }

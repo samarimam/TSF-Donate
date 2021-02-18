@@ -6,7 +6,7 @@ import GitHubIcon from '@material-ui/icons/GitHub';
 function Contact() {
     return (
         <div className="contact" id="contact">
-             <h2>Contact us</h2>
+             <h2>Address</h2>
              <p>Samar Imam</p>
             <p>Jamia Millia Islamia</p>
             <span><a href="https://www.linkedin.com/in/samar-imam-7922211b7/"><LinkedInIcon /></a>
